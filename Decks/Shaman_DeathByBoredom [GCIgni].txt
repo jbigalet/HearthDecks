@@ -1,0 +1,40 @@
+Shaman
+DeathByBoredom [GC|Igni]
+Earth Shock
+2
+Lightning Bolt
+2
+Rockbiter Weapon
+2
+Stormforged Axe
+1
+Bloodmage Thalnos
+1
+Flametongue Totem
+1
+Wild Pyromancer
+1
+Feral Spirit
+2
+Hex
+2
+Lava Burst
+1
+Lightning Storm
+2
+Mana Tide Totem
+1
+Unbound Elemental
+2
+Chillwind Yeti
+1
+Defender of Argus
+2
+Azure Drake
+2
+Gadgetzan Auctioneer
+1
+Argent Commander
+2
+Fire Elemental
+2

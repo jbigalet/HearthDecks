@@ -1,0 +1,40 @@
+Druid
+Trucks [GosuCup|Ignite]
+Innervate
+2
+Wrath
+2
+Ancient Watcher
+2
+Bloodmage Thalnos
+1
+Nat Pagle
+1
+Sunfury Protector
+2
+Savage Roar
+1
+Earthen Ring Farseer
+1
+Harvest Golem
+2
+Tinkmaster Overspark
+1
+Swipe
+2
+Chillwind Yeti
+2
+Defender of Argus
+1
+Keeper of the Grove
+2
+Druid of the Claw
+2
+Force of Nature
+1
+Argent Commander
+2
+Cairne Bloodhoof
+1
+Ancient of Lore
+2

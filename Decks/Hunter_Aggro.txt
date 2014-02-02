@@ -1,0 +1,34 @@
+Hunter
+Aggro
+Tracking
+2
+Abusive Sergeant
+2
+Leper Gnome
+2
+Timber Wolf
+2
+Explosive Trap
+2
+Misdirection
+2
+Unleash the Hounds
+2
+Bluegill Warrior
+2
+Ironbeak Owl
+2
+Starving Buzzard
+2
+Eaglehorn Bow
+2
+Animal Companion
+2
+Kill Command
+2
+Arcane Golem
+1
+Wolfrider
+2
+Leeroy Jenkins
+1

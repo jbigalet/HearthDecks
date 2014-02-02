@@ -1,0 +1,40 @@
+Warrior
+WarControl
+Inner Rage
+2
+Execute
+2
+Shield Slam
+2
+Whirlwind
+2
+Fiery War Axe
+2
+Cleave
+2
+Slam
+2
+Wild Pyromancer
+2
+Shield Block
+2
+Acolyte of Pain
+2
+Tinkmaster Overspark
+1
+Brawl
+1
+Gadgetzan Auctioneer
+2
+Cairne Bloodhoof
+1
+Sylvanas Windrunner
+1
+Gorehowl
+1
+Grommash Hellscream
+1
+Alexstrasza
+1
+Ysera
+1

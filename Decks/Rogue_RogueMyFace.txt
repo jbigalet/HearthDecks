@@ -1,0 +1,38 @@
+Rogue
+RogueMyFace
+Backstab
+2
+Preparation
+2
+Shadowstep
+2
+Cold Blood
+2
+Conceal
+2
+Deadly Poison
+2
+Blade Flurry
+2
+Eviscerate
+2
+Sap
+2
+Shiv
+2
+Bloodmage Thalnos
+1
+Nat Pagle
+1
+Fan of Knives
+1
+Coldlight Oracle
+1
+SI:7 Agent
+2
+Leeroy Jenkins
+1
+Assassin's Blade
+1
+Gadgetzan Auctioneer
+2

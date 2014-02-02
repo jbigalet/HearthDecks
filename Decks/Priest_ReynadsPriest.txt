@@ -1,0 +1,40 @@
+Priest
+ReynadsPriest
+Holy Smite
+2
+Power Word: Shield
+2
+Northshire Cleric
+2
+Shadow Word: Pain
+2
+Bloodmage Thalnos
+1
+Nat Pagle
+1
+Shadow Word: Death
+2
+Thoughtsteal
+2
+Harvest Golem
+2
+Injured Blademaster
+2
+Tinkmaster Overspark
+1
+Twilight Drake
+2
+Holy Nova
+2
+Faceless Manipulator
+1
+Holy Fire
+2
+Cabal Shadow Priest
+1
+Cairne Bloodhoof
+1
+Ysera
+1
+Mind Control
+1
